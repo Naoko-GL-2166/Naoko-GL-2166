@@ -27,7 +27,7 @@ A graduate of Tokyo University of Foreign Studies (Polish Studies) and an exchan
 ### 担当箇所と自身の貢献
 私は主に以下の機能の開発を担当しました。
 - **ユーザー認証機能:** ログイン、新規登録、パスワードリセット機能の実装
-- **旅行ユーザー用プロフィール機能:** (プロフィール作成、表示、編集、削除)
+- **旅行ユーザー用プロフィール機能:** (プロフィール作成、画像設定、表示、編集)
 
 ### 技術スタック (Tech Stack)
 - **言語:** HTML, CSS, PHP (OOP), Laravel（MVCモデル）

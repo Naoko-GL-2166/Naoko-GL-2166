@@ -1,6 +1,6 @@
 # About Me
 Naoko I｜語学×ITの橋渡し役
- 東京外国語大学ポーランド科卒、ロンドン大学SOAS留学。日・英・波・仏の4ヶ国語を操る語学マニア。これまでに高校英語教員、通訳・翻訳、テストエンジニア、プロンプトエンジニアなどのキャリアを持つ。TOEIC 895点、DELF B1、JSTQB Foundation Levelを所持。
+ 東京外国語大学ポーランド科卒、ロンドン大学SOAS留学。日・英・波・仏の4ヶ国語を操る語学マニア。高校英語教員、通訳・翻訳、テストエンジニア、プロンプトエンジニアなどのキャリアを持つ。TOEIC 895点、DELF B1、JSTQB Foundation Levelを所持。
 
 <details>
 <summary>🇬🇧 English Version</summary>

@@ -85,3 +85,45 @@ In this project, I was deeply involved not only in development but also in the u
 - **Function List (Google Sheets):** [[Function List Link](https://docs.google.com/spreadsheets/d/1bUNQ4iTASRtS-117SRm98DEvHwaX3_SYSGMPHKIHnyM/edit?gid=1716781624#gid=1716781624)] - I contributed to discussions on prioritizing features (high, medium, low) and helped in outlining development tasks.
 
 </details>
+
+
+### デモサイトの歩き方 / How to Explore the Demo
+デモサイトを最大限にお楽しみいただくため、以下のテスト用アカウントをご利用ください。ユーザー種別ごとに異なる機能をご確認いただけます。
+
+**全ユーザー共通パスワード:** `password`
+
+- **旅行者アカウント (Tourist):** `alice@example.com`
+  - クエスト（旅の記録）やスポットの投稿、編集、削除が可能です。
+  - 他のユーザーの投稿への「いいね」やコメント、フォローができます。
+
+- **ビジネスアカウント (Business):** `grace@example.com`
+  - 店舗やイベント情報の投稿が可能です。
+  - プロモーション（割引など）の投稿機能もご覧いただけます。
+
+- **管理者アカウント (Admin):** `admin@example.com`
+  - 全ユーザーと全投稿の閲覧、承認、削除が可能です。
+  - ビジネスアカウントの公式バッジ認証機能など、管理者専用のダッシュボードを操作できます。
+
+---
+
+<details>
+<summary>🇬🇧 English Version</summary>
+
+### How to Explore the Demo Site
+To fully experience the features of the demo site, please use the following test accounts. Each user role has access to different functionalities.
+
+**Common Password for all users:** `password`
+
+- **Tourist Account:** `alice@example.com`
+  - You can create, read, update, and delete "Quests" (travel logs) and "Spots."
+  - You can also "like," comment on, and "follow" other users' posts.
+
+- **Business Account:** `grace@example.com`
+  - This account can post information about their own businesses and events.
+  - You can also explore the feature for posting special promotions (e.g., discounts).
+
+- **Admin Account:** `admin@example.com`
+  - With this account, you can view, approve, and delete all users and posts on the platform.
+  - You can navigate the admin-exclusive dashboard, which includes features like verifying business accounts with an official badge.
+
+</details>

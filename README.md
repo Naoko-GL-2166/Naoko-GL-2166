@@ -16,8 +16,6 @@ A graduate of Tokyo University of Foreign Studies (Polish Studies) and an exchan
 ## 💻 Pinned Project: HopQuest (チーム開発)
 
 旅の思い出やお気に入りのスポットを共有するSNSアプリケーション「HopQuest」をチームで開発しました。
-
-- **Live Demo:** [https://hopquest30th-af035b680d5f.herokuapp.com/home](https://hopquest30th-af035b680d5f.herokuapp.com/home)
 - **GitHub Repository:** [kredo-school/30th_hop-quest](https://github.com/kredo-school/30th_hop-quest)
 - **開発期間:** 2025年2月〜4月 (Kredo Global Internコース)
 
